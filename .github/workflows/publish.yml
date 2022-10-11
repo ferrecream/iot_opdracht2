@@ -15,5 +15,5 @@ jobs:
           username: ferrecream
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: ferrecream/publish-packages/game
+          repository: ferrecream/iot_opdracht2/game
           tag_with_sha: true
